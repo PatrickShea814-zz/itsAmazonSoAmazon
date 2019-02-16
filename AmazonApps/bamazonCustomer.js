@@ -88,7 +88,7 @@ function customerOrder() {
 };
 
 function orderSubmitted(id, quantity) {
-    var updateStock = "UPDATE products SET stock_quantity = stock_quantity - " + quantity + "WHERE id = " + id;
+    var updateStock = "UPDATE products SET stock_quantity = stock_quantity - " + quantity + " WHERE item_id = " + id;
 
     connection.query(
         updateStock,
