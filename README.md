@@ -33,10 +33,10 @@ If the store's stock of the selected product can meet the user's requirement:
    * The SQL database is updated to reflect the remaining quantity.
    * Once the database is updated the user is shown the total cost of their purchase.
 
-![bamazonUserFlow](\Media\ss1.png)
+![Bamazon1](Media/ss1.png)
 
-![bamazonUserFlow](\Media\ss2.png)
+![Bamazon2](\Media\ss2.png)
 
-![bamazonUserFlow](\Media\gif1.gif)
+![bamazonUserFlow](Media/gif1.gif)
 
-![bamazonUserFlow](\Media\gif1.gif)
+![bamazonUserFlow](Media/gif2.gif)
