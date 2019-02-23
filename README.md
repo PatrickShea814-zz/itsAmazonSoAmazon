@@ -32,3 +32,11 @@ When an order is placed the application will check if the store's stock of the s
 If the store's stock of the selected product can meet the user's requirement:
    * The SQL database is updated to reflect the remaining quantity.
    * Once the database is updated the user is shown the total cost of their purchase.
+
+![bamazonUserFlow](\Media\ss1.png)
+
+![bamazonUserFlow](\Media\ss2.png)
+
+![bamazonUserFlow](\Media\gif1.gif)
+
+![bamazonUserFlow](\Media\gif1.gif)
